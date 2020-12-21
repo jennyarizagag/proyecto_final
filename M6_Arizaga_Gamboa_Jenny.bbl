@@ -1,0 +1,75 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bunnell%
+}{%
+Bunnell%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+Bunnell2000}
+\APACinsertmetastar {%
+Bunnell2000}%
+\begin{APACrefauthors}%
+Bunnell, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Making the Cisco Connection. The story behind the real
+  Internet SuperpowerCisco} {Making the cisco connection. the story behind the
+  real internet superpowercisco}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cisco press}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Costales%
+}{%
+Costales%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Costales2012}
+\APACinsertmetastar {%
+Costales2012}%
+\begin{APACrefauthors}%
+Costales, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mapa de medios digitales del Ecuador} {Mapa de medios
+  digitales del ecuador}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ciespal}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dewit%
+}{%
+Dewit%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Dewit2001}
+\APACinsertmetastar {%
+Dewit2001}%
+\begin{APACrefauthors}%
+Dewit, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The impact of interface usuability on trust in web
+  retailers} {The impact of interface usuability on trust in web
+  retailers}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Internet Research: Electronic Networking Applications
+  and Policy}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
